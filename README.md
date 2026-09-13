@@ -20,9 +20,9 @@ https://nicolezkx1025.github.io/
 
 ## 我在哪里
 
-![方向地图](https://nicolezkx1025.github.io/images/direction-map.svg?v=3)
+![方向地图](https://nicolezkx1025.github.io/images/direction-map.svg?v=4)
 
-**● 有公开可查的产出**（见下方仓库）；**◐ 真实做过的经验**（生产 / 实验，未公开）；
+**● 有公开可查的产出**（仓库或站内文章）；**◐ 真实做过的经验**（生产 / 实验，未公开）；
 **○ 还没进入**。虚线箭头 = 正在把能力迁移过去的方向，不是战绩。
 坐标是**定性定位，不是给自己打分**；一个方向的远近不等于能力评分，只说明我现在站在哪儿。
 
