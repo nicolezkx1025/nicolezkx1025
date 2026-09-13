@@ -1,4 +1,4 @@
-# 张可昕 · Kexin ZHANG
+# Kexin ZHANG
 
 > 做 AI 算法与系统工程，**技术经验丰富、工程经验扎实**。
 
