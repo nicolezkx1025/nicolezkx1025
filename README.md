@@ -33,6 +33,13 @@ https://nicolezkx1025.github.io/
 | [**table-structure-gnn**](https://github.com/nicolezkx1025/table-structure-gnn) | 无边框复杂表格的行列结构与合并表头复原 | 边级准确率 **99.1%** 时结构 F1 只有 **0.551**，输给一条几何规则；**一致性后处理**把列分组 F1 提到 **0.695** |
 | [**rag-eval-abstention**](https://github.com/nicolezkx1025/rag-eval-abstention) | 让 RAG 学会说「我不知道」 | 不拒答时精确率 **0.633**、幻觉率 **0.367**；阈值 τ=0.30 处拒答 18% 的查询后，精确率升到 **0.755**、幻觉率降到 **0.200** |
 
+### 时代归档与学习日志
+
+| 仓库 | 一句话 | 看点 |
+|---|---|---|
+| [**floorplan-parsing**](https://github.com/nicolezkx1025/floorplan-parsing) | 户型图结构化解析（2018–19 方向的复现） | 规则法平均 IoU **0.465**、门 F1 **0.06**；逐像素学习法 **0.804** / **0.47**。仓库里记录了**一个我给最差方法打了满分的坏指标**，以及它为什么坏 |
+| [**reading-log**](https://github.com/nicolezkx1025/reading-log) | 学习日志：每天/每周读了什么、搞懂了什么 | 重点记**还没搞懂**的部分；索引由脚本自动生成 |
+
 三个仓库回答的是同一个问题的三种形态：**系统如何知道自己什么时候不可信，并据此降级、保守化或拒答。**
 
 ## 一条兴趣线
